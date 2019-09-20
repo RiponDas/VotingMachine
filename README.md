@@ -1,0 +1,2 @@
+# VotingMachine
+This is my first project in my bachelor degree. This project was developed when studying first semester in first year in my bachelor degree at University of Barisal. VotingMachine is a C language based console software that allows users to organize a election and specify number of voters and competitors. Then after launching election it take vote for each voters and count through the corresponding competitors. Finally gives the result. Its keeps track on every votes given by the voters.
