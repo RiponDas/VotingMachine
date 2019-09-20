@@ -1,0 +1,71 @@
+
+
+		Last Update of Class Representative Election is:
+	Time:Fri Sep 04 15:44:34 2015
+
+	Vote of Ripon das is: 1	Vote of Mehedi is: 0	Vote of Sakil is: 0
+
+		Last Update of Class Representative Election is:
+	Time:Fri Sep 04 15:44:36 2015
+
+	Vote of Ripon das is: 2	Vote of Mehedi is: 0	Vote of Sakil is: 0
+
+		Last Update of Class Representative Election is:
+	Time:Fri Sep 04 15:44:38 2015
+
+	Vote of Ripon das is: 2	Vote of Mehedi is: 1	Vote of Sakil is: 0
+
+		Last Update of Class Representative Election is:
+	Time:Fri Sep 04 15:44:40 2015
+
+	Vote of Ripon das is: 2	Vote of Mehedi is: 1	Vote of Sakil is: 1
+
+		Last Update of Class Representative Election is:
+	Time:Fri Sep 04 15:44:43 2015
+
+	Vote of Ripon das is: 3	Vote of Mehedi is: 1	Vote of Sakil is: 1
+
+		Last Update of Class Representative Election is:
+	Time:Fri Sep 04 15:52:51 2015
+
+	Vote of Ripon das is: 1	Vote of Mehedi is: 0	Vote of Sagor is: 0
+
+		Last Update of Class Representative Election is:
+	Time:Fri Sep 04 15:52:53 2015
+
+	Vote of Ripon das is: 1	Vote of Mehedi is: 1	Vote of Sagor is: 0
+
+		Last Update of Class Representative Election is:
+	Time:Fri Sep 04 15:52:55 2015
+
+	Vote of Ripon das is: 1	Vote of Mehedi is: 1	Vote of Sagor is: 1
+
+		Last Update of Class Representative Election is:
+	Time:Fri Sep 04 15:52:58 2015
+
+	Vote of Ripon das is: 2	Vote of Mehedi is: 1	Vote of Sagor is: 1
+
+		Last Update of Class Representative Election is:
+	Time:Fri Sep 04 15:53:00 2015
+
+	Vote of Ripon das is: 3	Vote of Mehedi is: 1	Vote of Sagor is: 1
+
+		Last Update of Class Representative Election is:
+	Time:Fri Sep 04 16:01:42 2015
+
+	Vote of Ripon das is: 1	Vote of Mehedi is: 0	Vote of Sagor is: 0
+
+		Last Update of Class Representative Election is:
+	Time:Fri Sep 04 16:01:44 2015
+
+	Vote of Ripon das is: 1	Vote of Mehedi is: 1	Vote of Sagor is: 0
+
+		Last Update of Class Representative Election is:
+	Time:Fri Sep 04 16:01:45 2015
+
+	Vote of Ripon das is: 1	Vote of Mehedi is: 1	Vote of Sagor is: 1
+
+		Last Update of Class Representative Election is:
+	Time:Fri Sep 04 16:01:47 2015
+
+	Vote of Ripon das is: 2	Vote of Mehedi is: 1	Vote of Sagor is: 1

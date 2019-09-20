@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1438944807 source:g:\c programming\my project\voting_system\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1441854176 source:d:\1st semester\cse-1103-c programming\programming project of 2014-15 first semester\project\13cse046-ripon chandra das\voting_system\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+

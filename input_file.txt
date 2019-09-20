@@ -1,0 +1,7 @@
+Election Record............Election Record.............
+Name of the election: Class Representative Election
+Number of Candidate: 3	Number of Voter: 4
+Candidate name or symbol:
+1. Ripon das
+2. Mehedi
+3. Sagor

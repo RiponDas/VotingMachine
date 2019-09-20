@@ -1,0 +1,10 @@
+
+
+		Last Update of CR Election is:
+	Vote of Ripon is: 1	Vote of prokas is: 0	Vote of Sakil is: 0
+
+		Last Update of CR Election is:
+	Vote of Ripon is: 1	Vote of prokas is: 1	Vote of Sakil is: 0
+
+		Last Update of CR Election is:
+	Vote of Ripon is: 1	Vote of prokas is: 1	Vote of Sakil is: 1
